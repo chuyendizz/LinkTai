@@ -12,3 +12,5 @@ Link: https://cdn.fuwucms.com/a/370537244569/files/d49e792dd7b3d30414bdd4646334f
 
 # Enterprise Architech
 Link: https://drive.google.com/file/d/15JJhV3BLv8OuAuYIzMYlNh8EqvVEHstt/view
+# Intellij IDEA
+Link: https://drive.google.com/file/d/1hUeAy0tdcDrudVWptJUS3qzYpD-Nbit4/view?usp=sharing
